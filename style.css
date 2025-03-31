@@ -1,1 +1,20 @@
-h2{color: mediumseagreen;}
+h1{
+    color: rgba(255, 255, 255, 0.986);
+}
+h2{
+    color: rgba(255, 255, 255, 0.986);
+    
+}
+p{color: #ffffff;}
+body{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(https://images4.alphacoders.com/137/1375139.png);
+}
+header{
+    border-bottom: 1px solid #ffffff
+}
+footer{
+    border-top: 1px solid #ffffff
+}
+
