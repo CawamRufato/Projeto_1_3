@@ -18,3 +18,10 @@ footer{
     border-top: 1px solid #ffffff
 }
 
+#nome-usuário{
+    font-weight: bold;
+}
+
+.texto-ingles{
+    font-style: italic;
+}
